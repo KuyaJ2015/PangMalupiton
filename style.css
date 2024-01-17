@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+.head-bg
+{
+    background-color: aquamarine;
+    padding: 15px 25px;
+
+}
+.brand-container{
+    display: inline-block;
+}
+.brand-title{
+    display: inline-block;
+    margin: 5px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    top: -15px;
+    left: 15px;
+}
+.header-title
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#section-img
+{
+    margin: 20px;
+    display: inline-block;
+}#kawaki
+{
+    margin: 20px;
+    text-align: left;
+}
